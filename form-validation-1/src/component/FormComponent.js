@@ -41,7 +41,7 @@ const FormComponent = () => {
             setErrorPassword('รหัสผ่านต้องมีจำนวน 8 ตัวอักษร')
             setPasswordColor('red')
         }
-        if(rePassword != "" && rePassword === password){
+        if(rePassword !== "" && rePassword === password){
             setErrorRePassword('')
             setRePasswordColor('green')
         }else{
