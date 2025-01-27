@@ -1,1 +1,1 @@
-30 project html css javascript
+ฝึกเขียนโค้ด ฝึกแก้ปัญหาต่างๆ 
